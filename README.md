@@ -1,3 +1,14 @@
+✅🗓 Dia 5 - Estado (State) e Eventos (4-5h)
+✅ O que é useState e como funciona?
+✅ Manipulação de eventos (onClick, onChange)
+ ✅Criando um mini-projeto: Contador simples com React
+
+✅🎯 Tarefa: Criar um botão que incrementa um número toda vez que é clicado
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
